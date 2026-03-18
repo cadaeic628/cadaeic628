@@ -45,7 +45,7 @@ Hello! My name is Sebastián Morales. I live in Quilicura, Santiago Metropolitan
 <br>
 
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB_AQUI]&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
+<img src="https://github-readme-stats.vercel.app/api?username=cadaeic628&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
 </div>
 
 <br>
