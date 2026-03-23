@@ -40,7 +40,7 @@ Hello! My name is Sebastián Morales. I live in Quilicura, Santiago Metropolitan
 - ❤️ I am deeply passionate about education and truly enjoy teaching and sharing knowledge with others.
 - 🧑‍🏫 I am a teaching assistant at the ["Taller de 2 Relojes" (University of Chile)](https://www.instagram.com/tallerdosrelojesfcfm/), where I help students with Calculus, Algebra, Linear Algebra, Differential Equations, Classical Physics, and more.
 - 🧩 In my free time, I play rubik's cube competitively and enjoy playing indie videogames.
-- 🏋️‍♂️ I also go to the gym whenever I can and I love to watch series and movies from time to time.
+- 🏋️‍♂️ I also go to the gym whenever I can and I love to watch series and movies from time to time with my girlfriend Ivania💜.
 <br>
 <br>
 
